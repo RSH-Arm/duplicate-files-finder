@@ -46,5 +46,5 @@
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yourusername/duplicate-files-finder/main/FindAndRemoveDuplicates.ps1" -OutFile "FindAndRemoveDuplicates.ps1"
 
 # Или клонировать репозиторий
-git clone https://github.com/yourusername/duplicate-files-finder.git
+git clone https://github.com/RSH-Arm/duplicate-files-finder.git
 cd duplicate-files-finder
